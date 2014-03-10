@@ -1,0 +1,152 @@
+/**cabeçalho**/
+.topo{
+background:#696969 url('13740843645367873965.jpg') scroll top center;
+background-size: 100% 100% ;
+background-repeat:no-repeat;
+margin:0 auto;
+padding:10px;
+width: 100%;
+height:100px;
+background-color: #5F9EA0;
+}
+
+/**conteudo da index **/
+div.centro{
+background-color:#ffffff;
+border:2px solid;
+border-radius:25px;
+margin-top:10%;
+margin-left:30%;
+width:500px;
+}
+
+div.conteudo h1{
+text-align:center;
+padding:0;
+margin:0;
+color:#828282;
+font-family:Arial,Verdana,serif;
+padding-left:10px;
+font-size:1.75em;
+}
+
+/** menu **/
+#menu ul {
+padding:10px;
+margin:0px;
+float: left;
+width: 100%;
+background-color:#EDEDED;
+list-style:none;
+font:80% Arial;
+}
+ 
+#menu ul li { display: inline; }
+
+#menu ul li a {
+background-color:#EDEDED;
+color: #333;
+text-decoration: none;
+border-bottom:0px solid #EDEDED;
+padding: 5px 20px;
+float:left;
+}
+ 
+#menu ul li a:hover {
+background-color:#D6D6D6;
+color: #6D6D6D;
+border-bottom:4px solid #EA0000;
+}
+
+
+div.text h1{
+text-align:center;
+padding:0;
+margin:0;
+color:#000000;
+font-family:Arial,Verdana,serif;
+padding-left:10px;
+font-size:1.75em;
+}
+
+/**slidesobre**/
+.slidesobre {
+background:#fff; 
+padding:98px;
+border:0px double #ff;
+box-shadow: 70px 70px 80px #818181;
+-webkit-box-shadow: 7px 7px 8px #818181;
+-moz-box-shadow: 7px 7px 8px #818181;
+filter: progid:DXImageTransform.Microsoft.dropShadow(color=#818181, offX=7, offY=7, positive=true);
+}
+
+/** menu **/
+#menu ul {
+padding:10px;
+margin:0px;
+float: left;
+width: 100%;
+background-color:#EDEDED;
+list-style:none;
+font:80% Arial;
+}
+ 
+#menu ul li { display: inline; }
+
+#menu ul li a {
+background-color:#EDEDED;
+color: #333;
+text-decoration: none;
+border-bottom:0px solid #EDEDED;
+padding: 5px 20px;
+float:left;
+font-family:Arial,Verdana;
+font-size:12px;
+}
+ 
+#menu ul li a:hover {
+background-color:#D6D6D6;
+color: #6D6D6D;
+border-bottom:4px solid #EA0000;
+}
+
+/**seja bem vindo**/
+div.restrito h1{
+text-align:center;
+padding:0;
+margin:0;
+color:#000000;
+font-family:Arial,Verdana,serif;
+padding-left:10px;
+font-size:1.75em;
+}
+
+/**rodapé**/
+.rodape{
+width: 100%;
+height:60px;
+background-color: #5F9EA0;
+color:white;
+position:relative; 
+bottom: 0;
+}
+
+div.rodape h1{
+text-align:center;
+padding:0;
+margin:0;
+color:#ffffff;
+font-family:Arial,Verdana,serif;
+padding-left:10px;
+font-size:12px;
+}
+
+div.rodape h2{
+text-align:center;
+padding:0;
+margin:0;
+color:#ffffff;
+font-family:Arial,Verdana,serif;
+padding-left:10px;
+font-size:12px;
+}
