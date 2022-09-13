@@ -1,2 +1,2 @@
-Sistema-de-Cadastro-de-Pacientes
+Sistema de cadastro de pacientes
 ================================
